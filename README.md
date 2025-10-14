@@ -1,6 +1,6 @@
 
 <h1 align="center">Merhaba 👋, I'm Ali Emir</h1>
-<h3 align="center">Backend Frontend Developer </h3>
+<h3 align="center">   C# ve SQL konularında bilgi sahibiyim. Web geliştirme alanında kendimi geliştiriyorum.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Ho%C5%9F+geldin+GitHub+profilime!;React%2C+Next.js+ve+Node.js+seviyorum.;Projelerimi+a%C5%9Fa%C4%9F%C4%B1da+inceleyebilirsin." alt="Typing SVG" />
@@ -23,22 +23,14 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadiniz&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kullaniciadiniz&theme=radical" alt="streak"/>
-</p>
-
----
 
 ### 📈 En çok kullandığım diller:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadiniz&layout=compact&theme=radical" alt="langs" />
+C#\HTML\CSS\JS
 </p>
 
 ---
 
-### 🌊 Alt kısımda animasyon dalga (wave SVG)
-<img src="https://raw.githubusercontent.com/avinash-218/avinash-218/main/assets/wave.svg" />
+
 
 
