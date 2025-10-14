@@ -34,7 +34,10 @@ C#\HTML\CSS\JS
 ### 🌤️ Bugünkü Hava Durumu (İstanbul)
 
 <p align="center">
-  <img src="https://wttr.in/Istanbul?format=3">
+  <img src="https://wttr.in/Istanbul?format=3" alt="İstanbul Hava Durumu"/>
+  <img src="https://wttr.in/London?format=3" alt="London Hava Durumu" />
+  <img src="https://wttr.in/Ankara?format=3" alt="Ankara Hava Durumu" />
+  <img src="https://wttr.in/Berlin?format=3" alt="Berlin Hava Durumu" />
 </p>
 
 
