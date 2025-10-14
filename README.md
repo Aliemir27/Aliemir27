@@ -3,7 +3,7 @@
 <h3 align="center">   C# ve SQL konularında bilgi sahibiyim. Web geliştirme alanında kendimi geliştiriyorum.</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=Ho%C5%9F+geldin+GitHub+profilime!;React%2C+Next.js+ve+Node.js+C#+seviyorum.;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=Ho%C5%9F+geldin+GitHub+profilime!;React%2C+Next.js+ve+Node.js+seviyorum.;" alt="Typing SVG" />
 </p>
 
 ---
