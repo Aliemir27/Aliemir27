@@ -1,6 +1,6 @@
 
 <h1 align="center">Merhaba 👋, I'm Ali Emir</h1>
-<h3 align="center">   C# ve SQL konularında bilgi sahibiyim. Web geliştirme alanında kendimi geliştiriyorum.</h3>
+<h3 align="center">   Yazılım alanında kendimi geliştiriyorum.</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=000080&center=true&vCenter=true&width=435&lines=Ho%C5%9F+geldin+GitHub+profilime!;" alt="Typing SVG" />
